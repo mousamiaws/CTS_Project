@@ -4,4 +4,6 @@ class calculator()
     b=10;
     c= a-b;
     syso ("test print from calculator")
+    syso ("test print")
+
 }
